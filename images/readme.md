@@ -1,0 +1,1 @@
+Resource images for websites.
