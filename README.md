@@ -34,7 +34,7 @@ For feature selection with a given dimention, run:
 python feats_select.py
 ```
 
-### Train and predic
+### Train and predict
 Run the scrip below to train a SVR regressor with the selected features and predict the realism score for the three test sets.
 
 This scrip is mostly borrowed from [here](https://github.com/vztu/BVQA_Benchmark.git)[<sup>1</sup>](#refer-anchor-1).
