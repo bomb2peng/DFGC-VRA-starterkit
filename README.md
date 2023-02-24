@@ -14,7 +14,8 @@ Relative coordinates of the bounding box for each video is provided in the *crop
 ### Feature extraction
 Here we use the 1st-place solution in DFGC-2022 detection track (DFGC-1st) as the extractor.
 
-Run the scrip bellow to get video level features:
+You may download their codes from [here](https://github.com/chenhanch/DFGC-2022-1st-place.git) and rename it as *DFGC1st*, then put it in the same folder as the scrip below.
+Run this scrip to get video level features:
 ```
 python DFGC1st_feats.py
 ```
