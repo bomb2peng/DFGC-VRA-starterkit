@@ -45,7 +45,7 @@ Also, you may modify the parameters.
 python train_and_predict.py
 ```
 
-### Reference
+## Reference
 
 <div id="refer-anchor-1"></div>
 
