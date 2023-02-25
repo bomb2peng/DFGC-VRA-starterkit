@@ -34,6 +34,7 @@ For feature selection with a given dimention, run:
 ```
 python feats_select.py
 ```
+Both the raw and the selcted features extracted via DFGC-1st model can be downloaded from [here](https://drive.google.com/file/d/1uZ2dJC1khdlTtRM8lSgrjXLMKHy5O2kl/view?usp=share_link).
 
 ### Train and predict
 Run the scrip below to train a SVR regressor with the selected features and predict the realism score for the three test sets.
